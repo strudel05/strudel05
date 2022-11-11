@@ -18,7 +18,7 @@ const euy = {
 
 <em><b>I'm currently looking for interesting opportunities, so kindly say hi if you've got some for me! :)</b></em>
 
-<a href="mailto:euyjang05@gmail.com?"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/euyyoungjang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:euyjang05@gmail.com?" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/euyyoungjang/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
